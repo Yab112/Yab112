@@ -1,15 +1,21 @@
-<!-- Centered Title and Subtitle -->
-<h1 align="center">Hi 👋, I'm Yabibal Eshetie</h1>
+<!-- Enhanced Header -->
+<h1 align="center">
+  Hi there! 👋 I'm <strong>Yabibal Eshetie</strong>
+  <br>
+  <img src="https://media.giphy.com/media/l0Iy7Ygud7U2zKwl0/giphy.gif" width="150" />
+</h1>
 <h3 align="center">A passionate FullStack developer from Ethiopia</h3>
 
-<!-- Profile Views and Trophy -->
+<!-- Profile Views -->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=yab112&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yab112" alt="GitHub Trophy" />
-  </a> 
+
+<!-- Fun and Anime-themed Images -->
+<h3 align="center">🎨 Fun & Anime Coding</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Programming Anime" width="300"/>
+  <img src="https://media.giphy.com/media/3o7buirKMoebniDOZi/giphy.gif" alt="Drinking Coffee" width="300"/>
 </p>
 
 <!-- Introduction -->
@@ -48,14 +54,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yab112&show_icons=true&locale=en" alt="GitHub Stats"/>
 </p>
 
-<!-- Fun and Anime-themed Images -->
-<h3 align="center">🎨 Fun & Anime Coding</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt4O5z82A7w28yY/giphy.gif" alt="Coding Anime" width="300"/>
-  <img src="https://media.giphy.com/media/3o6ozl6gG8nH7TGB8g/giphy.gif" alt="Drinking Coffee" width="300"/>
+<!-- GitHub Trophy -->
+<h3 align="center">🏆 GitHub Trophy</h3>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yab112" alt="GitHub Trophy" />
+  </a> 
 </p>
 
 <!-- GitHub Profile Summary Card -->
+<h3 align="center">📊 Profile Summary</h3>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yab112&theme=tokyonight" alt="Profile Summary"/>
 </p>
@@ -69,6 +77,7 @@
 </p>
 
 <!-- Contribution Snake -->
+<h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
   <img src="https://github.com/yab112/yab112/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
 </p>
