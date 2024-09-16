@@ -34,11 +34,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
-  ...
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  ...
+  <!-- Add more icons here -->
 </p>
 
 <!-- GitHub Stats -->
@@ -80,5 +76,7 @@
 <!-- Spotify Recently Played -->
 <h3 align="center">🎧 Recently Played on Spotify</h3>
 <p align="center">
-  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=spotify_user&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify.com)
+  <a href="https://spotify.com" target="_blank" rel="noreferrer">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify_user&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify" width="300"/>
+  </a>
 </p>
