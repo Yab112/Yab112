@@ -60,24 +60,9 @@
 </p>
 
 <h3 align="left">My Stats:</h3>
-<p align="left">
-  <a href="https://github.com/Yab112">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yab112&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical&include_all_commits=true&hide_border=true&hide=contribs" />
-  </a>
-  <a href="https://github.com/Yab112">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yab112&hide_title=true&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&stroke=ffffff&ring=5d76cb&fire=7d4d77&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=5d76cb&sideLabels=ffffff&dates=ffffff" />
-  </a>
-</p>
 
-<h3 align="left">Some of my Projects:</h3>
-<p align="left">
-  <a href="https://github.com/Yab112/Yabs-Dashboard">
-    <img src="https://img.shields.io/badge/Yabs--Dashboard-black?style=for-the-badge&logo=react" />
-  </a>
-  <a href="https://github.com/Yab112/React-CRUD">
-    <img src="https://img.shields.io/badge/React--CRUD-black?style=for-the-badge&logo=react" />
-  </a>
-  <a href="https://github.com/Yab112/Yabs--Social-App">
-    <img src="https://img.shields.io/badge/Yabs--Social--App-black?style=for-the-badge&logo=react" />
-  </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yab112&show_icons=true&locale=en&layout=compact" alt="yab112" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yab112&show_icons=true&locale=en" alt="yab112" /></p>
+
+
