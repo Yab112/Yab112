@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **Nestjs**
 
-- 💬 Ask me about **next, ml, MEARN**
+- 💬 Ask me about **working together 😁**
+  I'am audiphilic 🎶 
 
 - 📫 How to reach me **eshetieyabibal@gmail.com**
 
