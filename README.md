@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Nestjs**
 
 - 💬 Ask me about **working together 😁**
-  I'am audiphilic 🎶 
+- I'am audiphilic 🎶 
 
 - 📫 How to reach me **eshetieyabibal@gmail.com**
 
