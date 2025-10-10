@@ -18,35 +18,25 @@
 ## Professional Overview
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="left" width="60%">
-        <div align="left">
-          <h3>About Me</h3>
-          <p>I am a dedicated <strong>Full Stack Developer</strong> and <strong>Python Automation Specialist</strong> from Ethiopia. With a passion for creating efficient, scalable solutions, I focus on automating workflows and building robust web applications.</p>
-          
-          <h3>Current Focus</h3>
-          <ul>
-            <li>🔭 <strong>Developing</strong> full-stack applications with modern technologies</li>
-            <li>🌱 <strong>Specializing</strong> in Python automation and DevOps practices</li>
-            <li>👯 <strong>Collaborating</strong> on innovative web solutions</li>
-            <li>💬 <strong>Expertise</strong> in Python automation, JavaScript, and system integration</li>
-          </ul>
-          
-          <h3>Professional Interests</h3>
-          <ul>
-            <li>🎵 <strong>Music Technology</strong> - Integrating audio solutions in applications</li>
-            <li>⚡ <strong>Process Optimization</strong> - Streamlining development workflows</li>
-            <li>📧 <strong>Contact</strong> - eshetieyabibal@gmail.com</li>
-          </ul>
-        </div>
-      </td>
-      <td align="right" width="40%">
-        <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-      </td>
-    </tr>
-  </table>
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
+
+### About Me
+
+I am a dedicated **Full Stack Developer** and **Python Automation Specialist** from Ethiopia. With a passion for creating efficient, scalable solutions, I focus on automating workflows and building robust web applications.
+
+### Current Focus
+
+- 🔭 **Developing** full-stack applications with modern technologies
+- 🌱 **Specializing** in Python automation and DevOps practices
+- 👯 **Collaborating** on innovative web solutions
+- 💬 **Expertise** in Python automation, JavaScript, and system integration
+
+### Professional Interests
+
+- 🎵 **Music Technology** - Integrating audio solutions in applications
+- ⚡ **Process Optimization** - Streamlining development workflows
+- 📧 **Contact** - eshetieyabibal@gmail.com
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yab112&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages" alt="Top Languages" />
