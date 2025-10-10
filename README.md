@@ -21,10 +21,6 @@
   <table>
     <tr>
       <td align="left" width="60%">
-        <div align="center">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563eb&center=true&vCenter=true&width=500&lines=const+yabibal+%3D+%7B;+name%3A+%22Yabibal+Eshetie%22%3B;+role%3A+%22Full+Stack+Developer%22%3B;+location%3A+%22Ethiopia+%F0%9F%87%AA%F0%9F%87%B9%22%3B;+specialization%3A+%5B%22Python+Automation%22%2C+%22DevOps%22%5D%3B;+experience%3A+%22Full+Stack+Development%22%3B;+contact%3A+%22eshetieyabibal%40gmail.com%22;+%7D%3B" alt="Typing Code" />
-        </div>
-        
         <div align="left">
           <h3>About Me</h3>
           <p>I am a dedicated <strong>Full Stack Developer</strong> and <strong>Python Automation Specialist</strong> from Ethiopia. With a passion for creating efficient, scalable solutions, I focus on automating workflows and building robust web applications.</p>
