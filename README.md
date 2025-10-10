@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Yabibal+Eshetie;Full+Stack+Developer+%F0%9F%92%BB;Python+Automation+Enthusiast+%F0%9F%8D%8D;From+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9;Always+learning+new+things+%F0%9F%93%9A;Building+amazing+automation+tools+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome+to+my+Profile!&fontSize=40&fontAlign=50&fontAlignY=40&desc=Full+Stack+Developer+%7C+Python+Automation+Specialist&descAlign=50&descAlignY=65" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563eb&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Yabibal+Eshetie;Full+Stack+Developer+%F0%9F%92%BB;Python+Automation+Specialist+%F0%9F%8D%8D;From+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9;Building+scalable+solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,45 +7,41 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yab112&label=Profile%20views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Yab112?label=Followers&style=for-the-badge&color=00FF88" alt="GitHub Followers" />
-  <img src="https://img.shields.io/twitter/follow/Yab112?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00FF88?style=for-the-badge&logo=github" alt="Status" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" alt="Divider" />
+  <img src="https://komarev.com/ghpvc/?username=Yab112&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Yab112?label=Followers&style=for-the-badge&color=059669" alt="GitHub Followers" />
+  <img src="https://img.shields.io/twitter/follow/Yab112?logo=twitter&style=for-the-badge&color=1d4ed8" alt="Twitter Follow" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-059669?style=for-the-badge&logo=github" alt="Status" />
 </div>
 
 ---
 
-## 🚀 About Me
+## Professional Overview
 
 <div align="center">
   <table>
     <tr>
       <td align="left" width="60%">
         <div align="center">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=const+yabibal+%3D+%7B;+name%3A+%22Yabibal+Eshetie%22%3B;+role%3A+%22Full+Stack+Developer%22%3B;+location%3A+%22Ethiopia+%F0%9F%87%AA%F0%9F%87%B9%22%3B;+passions%3A+%5B%22Web+Dev%22%2C+%22Music%22%2C+%22Automation%22%5D%3B;+currentlyLearning%3A+%5B%22Python+Automation%22%2C+%22DevOps%22%5D%3B;+funFact%3A+%22I+think+I'm+funny+%F0%9F%98%84%22%3B;+musicLover%3A+true%3B;+contact%3A+%22eshetieyabibal%40gmail.com%22;+%7D%3B" alt="Typing Code" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563eb&center=true&vCenter=true&width=500&lines=const+yabibal+%3D+%7B;+name%3A+%22Yabibal+Eshetie%22%3B;+role%3A+%22Full+Stack+Developer%22%3B;+location%3A+%22Ethiopia+%F0%9F%87%AA%F0%9F%87%B9%22%3B;+specialization%3A+%5B%22Python+Automation%22%2C+%22DevOps%22%5D%3B;+experience%3A+%22Full+Stack+Development%22%3B;+contact%3A+%22eshetieyabibal%40gmail.com%22;+%7D%3B" alt="Typing Code" />
         </div>
         
         <div align="left">
-          <h3>🚀 Quick Introduction</h3>
-          <p>Hey there! I'm <strong>Yabibal Eshetie</strong>, a passionate Full Stack Developer from Ethiopia 🇪🇹. I love turning ideas into reality through code and automation.</p>
+          <h3>About Me</h3>
+          <p>I am a dedicated <strong>Full Stack Developer</strong> and <strong>Python Automation Specialist</strong> from Ethiopia. With a passion for creating efficient, scalable solutions, I focus on automating workflows and building robust web applications.</p>
           
-          <h3>🎯 What I Do</h3>
+          <h3>Current Focus</h3>
           <ul>
-            <li>🔭 <strong>Currently working on</strong> exciting full-stack projects</li>
-            <li>🌱 <strong>Learning</strong> Python automation and DevOps practices</li>
-            <li>👯 <strong>Looking to collaborate</strong> on innovative web applications</li>
-            <li>💬 <strong>Ask me about</strong> Python automation, JavaScript, or working together! 😁</li>
+            <li>🔭 <strong>Developing</strong> full-stack applications with modern technologies</li>
+            <li>🌱 <strong>Specializing</strong> in Python automation and DevOps practices</li>
+            <li>👯 <strong>Collaborating</strong> on innovative web solutions</li>
+            <li>💬 <strong>Expertise</strong> in Python automation, JavaScript, and system integration</li>
           </ul>
           
-          <h3>🎵 Fun Facts</h3>
+          <h3>Professional Interests</h3>
           <ul>
-            <li>🎵 <strong>Music enthusiast</strong> - always coding with good vibes</li>
-            <li>⚡ <strong>Fun fact</strong> I believe humor makes code better</li>
-            <li>📧 <strong>Reach out</strong> at eshetieyabibal@gmail.com</li>
+            <li>🎵 <strong>Music Technology</strong> - Integrating audio solutions in applications</li>
+            <li>⚡ <strong>Process Optimization</strong> - Streamlining development workflows</li>
+            <li>📧 <strong>Contact</strong> - eshetieyabibal@gmail.com</li>
           </ul>
         </div>
       </td>
@@ -64,56 +56,48 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yab112&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages" alt="Top Languages" />
 </div>
 
-### 🎯 Fun Facts About Me
+## Technical Expertise
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        ☕ I turn coffee into code<br>
-        🤖 I automate everything<br>
-        🐛 I make bugs disappear
+        <strong>Development Focus</strong><br>
+        Full-Stack Web Applications<br>
+        Python Automation Solutions<br>
+        DevOps & CI/CD Implementation
       </td>
       <td align="center" width="50%">
-        🎵 I code with music<br>
-        💤 I debug in my sleep<br>
-        🧠 I think in algorithms
+        <strong>Professional Approach</strong><br>
+        Clean, Maintainable Code<br>
+        Systematic Problem Solving<br>
+        Continuous Learning & Growth
       </td>
     </tr>
   </table>
 </div>
 
-### ⚡ My Daily Routine
+## Development Philosophy
 
-**1. Wake up 💤 | 2. Coffee ☕ | 3. Code 💻 | 4. Debug 🐛 | 5. Repeat 🔄**
+**Quality First | Automation Driven | Scalable Solutions**
 
-_Sometimes I skip step 2 and go straight to step 5 😄_
+_I believe in writing clean, efficient code that solves real-world problems while maintaining high standards of quality and performance._
 
-<div align="center">
-  <img src="https://img.shields.io/badge/📧%20Reach%20out-eshetieyabibal%40gmail.com-00D4FF?style=for-the-badge&logo=gmail" alt="Email" />
-</div>
-
----
-
-## 📬 Connect With Me
+## Contact Information
 
 <div align="center">
   <a href="mailto:eshetieyabibal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://twitter.com/Yab112">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://github.com/Yab112">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/yabibal-eshetie">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" alt="Divider" />
 </div>
 
 ---
@@ -288,9 +272,5 @@ _Sometimes I skip step 2 and go straight to step 5 😄_
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=25&fontAlign=50&fontAlignY=50&desc=Let's+build+amazing+things+together!&descAlign=50&descAlignY=75" alt="Footer" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Keep+coding%2C+keep+learning!+%F0%9F%9A%80;Thanks+for+visiting+my+profile!+%F0%9F%91%8B" alt="Final Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563eb&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+profile!+%F0%9F%91%8B;Let's+connect+and+collaborate+%F0%9F%92%BB" alt="Final Typing SVG" />
 </div>
