@@ -1,262 +1,175 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563eb&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Yabibal+Eshetie;Full+Stack+Developer+%F0%9F%92%BB;Python+Automation+Specialist+%F0%9F%8D%8D;From+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9;Building+scalable+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Fullstack+Engineer+%7C+AI+Security+Specialist;System+Architect+%7C+Production+AI+Systems;Building+Scalable%2C+Secure+AI+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="Header" width="100%"/>
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=300&fit=crop&q=80" alt="Code Banner" style="max-width: 100%; height: auto;"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yab112&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Yab112?label=Followers&style=for-the-badge&color=059669" alt="GitHub Followers" />
-  <img src="https://img.shields.io/twitter/follow/Yab112?logo=twitter&style=for-the-badge&color=1d4ed8" alt="Twitter Follow" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-059669?style=for-the-badge&logo=github" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Yab112&label=Profile%20views&color=00d9ff&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Yab112?label=Followers&style=flat-square&color=00d9ff" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/AI%20Security-Specialist-00d9ff?style=flat-square" alt="AI Security" />
+  <img src="https://img.shields.io/badge/Fullstack-Engineer-4ADE80?style=flat-square" alt="Fullstack" />
 </div>
 
 ---
 
-## Professional Overview
+## About Me
 
-<div align="center">
-  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
+I'm a **fullstack engineer** specializing in **AI security** and **production-grade automation systems**. I design and implement end-to-end solutions that prioritize reliability, security, and maintainability. My work focuses on building intelligent systems that can operate autonomously while maintaining human oversight and control.
 
-### About Me
-
-I am a dedicated **Full Stack Developer** and **Python Automation Specialist** from Ethiopia. With a passion for creating efficient, scalable solutions, I focus on automating workflows and building robust web applications.
+**Building secure, scalable AI systems with a focus on production reliability, human-in-the-loop workflows, and self-healing automation.**
 
 ### Current Focus
 
-- 🔭 **Developing** full-stack applications with modern technologies
-- 🌱 **Specializing** in Python automation and DevOps practices
-- 👯 **Collaborating** on innovative web solutions
-- 💬 **Expertise** in Python automation, JavaScript, and system integration
+- **AI security patterns** including human-in-the-loop validation and self-healing systems
+- **Production automation tools** with custom databases and AWS deployment
+- **Multi-tenant architecture** and microservices design
+- **Test-driven development** for critical AI workflows
+- **LLM agent development** and orchestration
+- **RAG system implementation** and optimization
 
-### Professional Interests
+---
 
-- 🎵 **Music Technology** - Integrating audio solutions in applications
-- ⚡ **Process Optimization** - Streamlining development workflows
-- 📧 **Contact** - eshetieyabibal@gmail.com
+## Core Competencies
+
+### Languages & Frameworks
+**Primary:** Python, JavaScript, TypeScript  
+**Backend:** FastAPI, Node.js, Express  
+**Frontend:** React, Next.js  
+**Database:** PostgreSQL, MongoDB, Redis
+
+### AI & Automation
+- LLM agent development and orchestration
+- RAG system implementation and optimization
+- Evaluation frameworks and testing harnesses
+- Automation tools: Make, n8n
+- Custom automation platforms with owned databases
+
+### Architecture & Design
+- Multi-tenant system architecture
+- Microservices design and implementation
+- Event-driven architectures
+- API design and versioning
+- Test-driven development (TDD)
+
+### Security & Reliability
+- Human-in-the-loop AI workflows
+- Self-healing system design
+- Automated monitoring and alerting
+- Security best practices for AI systems
+- Error detection and recovery patterns
+
+### Infrastructure & DevOps
+- AWS deployment and management
+- Docker containerization
+- CI/CD pipeline design
+- Infrastructure as Code
+- Production monitoring and logging
+
+---
+
+## Technical Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yab112&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages" alt="Top Languages" />
-</div>
-
-## Technical Expertise
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <strong>Development Focus</strong><br>
-        Full-Stack Web Applications<br>
-        Python Automation Solutions<br>
-        DevOps & CI/CD Implementation
-      </td>
-      <td align="center" width="50%">
-        <strong>Professional Approach</strong><br>
-        Clean, Maintainable Code<br>
-        Systematic Problem Solving<br>
-        Continuous Learning & Growth
-      </td>
-    </tr>
-  </table>
-</div>
-
-## Development Philosophy
-
-**Quality First | Automation Driven | Scalable Solutions**
-
-_I believe in writing clean, efficient code that solves real-world problems while maintaining high standards of quality and performance._
-
-## Contact Information
-
-<div align="center">
-  <a href="mailto:eshetieyabibal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/Yab112">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/Yab112">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/yabibal-eshetie">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Featured Projects
 
-### 💻 Programming Languages
+### AI Security Platform
+Production-ready AI security system with human oversight capabilities. Implements multi-layer validation, automated threat detection, and self-healing mechanisms for LLM-based applications.
+
+**Key Features:**
+- Human-in-the-loop approval workflows
+- Real-time security monitoring
+- Automated incident response
+- Multi-tenant architecture
+- Comprehensive audit logging
+
+**Tech Stack:** Python, FastAPI, PostgreSQL, Redis, AWS
+
+### Custom Automation Engine
+Self-hosted automation platform with visual workflow builder and custom database integration. Deployed on AWS with high availability and scalability.
+
+**Key Features:**
+- Visual workflow designer
+- Custom database connectors
+- Event-driven execution
+- Webhook integrations
+- Real-time monitoring dashboard
+
+**Tech Stack:** TypeScript, Node.js, PostgreSQL, n8n, AWS ECS
+
+### RAG Evaluation Framework
+Comprehensive testing and evaluation system for retrieval-augmented generation applications. Includes golden datasets, scoring rubrics, and regression detection.
+
+**Key Features:**
+- Automated test generation
+- Multi-dimensional scoring
+- Hallucination detection
+- Performance regression tracking
+- Continuous evaluation pipeline
+
+**Tech Stack:** Python, LangChain, ChromaDB, MLflow
+
+---
+
+## Development Approach
+
+**Architecture First:** I prioritize system design and scalability from the start, focusing on patterns like microservices, multi-tenancy, and event-driven architectures.
+
+**Test-Driven Development:** I write tests before implementation to ensure code quality, maintainability, and regression prevention.
+
+**Security by Design:** Security considerations are integrated throughout the development process, not added as an afterthought.
+
+**Production Ready:** Every system I build is designed for production from day one, with proper monitoring, logging, error handling, and recovery mechanisms.
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yab112&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
 </div>
 
-### 🌐 Frontend Development
-
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-</div>
-
-### ⚙️ Backend Development
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</div>
-
-### ☁️ Cloud & DevOps
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Amplify-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Amplify"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</div>
-
-### 🤖 Automation & DevOps Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-</div>
-
-### 🎨 Design & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yab112&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" style="max-width: 48%; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yab112&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width: 48%; height: auto;" />
 </div>
 
 ---
 
-## 🐍 Python Automation Focus
+## Contact
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python"/>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Automation-FF6B6B?style=for-the-badge&logo=robot&logoColor=white&labelColor=000000" alt="Automation"/>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" alt="DevOps"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" alt="Divider" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        🤖 **Web Automation** with Selenium and BeautifulSoup
-      </td>
-      <td align="center" width="50%">
-        🔧 **CI/CD Pipeline** automation with GitHub Actions
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        📊 **Data Processing** and ETL automation
-      </td>
-      <td align="center" width="50%">
-        🚀 **Deployment Automation** with Docker and cloud platforms
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        🧪 **Testing Automation** with Pytest and automated test suites
-      </td>
-      <td align="center" width="50%">
-        ⚙️ **Infrastructure as Code** with Terraform and Ansible
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yab112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Yabibal's%20GitHub%20Stats" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yab112&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yab112&theme=tokyonight&hide_border=true&custom_title=GitHub%20Streak" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yab112&theme=tokyonight&hide_border=true&custom_title=Yabibal's%20Contribution%20Graph&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" alt="Activity Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yab112&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&custom_title=GitHub%20Achievements" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yab112&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages" alt="Top Languages" />
-</div>
+**Email:** eshetieyabibal@gmail.com  
+**LinkedIn:** [linkedin.com/in/yabibal-eshetie](https://linkedin.com/in/yabibal-eshetie)  
+**GitHub:** [github.com/Yab112](https://github.com/Yab112)
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563eb&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+profile!+%F0%9F%91%8B;Let's+connect+and+collaborate+%F0%9F%92%BB" alt="Final Typing SVG" />
+  <em>Open to collaborations on AI security, production automation, and scalable system architecture.</em>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Wave" />
 </div>
