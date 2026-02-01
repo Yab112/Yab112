@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Security+%26+ML+Orchestration+Specialist+%F0%9F%94%90;Building+Secure+%26+Robust+AI+Systems+%F0%9F%A4%96;Defending+Machine+Learning+at+Scale+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Security+and+Orchestration%2C+Fullstack+Engineer+%F0%9F%94%90;Building+Secure+%26+Robust+AI+Systems+%F0%9F%A4%96;LLM+Agents+%26+Evaluation+Specialist+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,96 +21,88 @@
   <img alt="AI Security" width="400" src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=300&fit=crop&q=80">
 </div>
 
-I am an **AI Security & ML Orchestration Specialist** dedicated to building secure, robust, and defensible artificial intelligence systems. My work focuses on the intersection of machine learning, cybersecurity, and large-scale orchestration - ensuring AI systems are not only powerful but also safe, reliable, and production-ready.
+I'm a **Python engineer** focused on **LLM agents and evaluation**. I develop backend systems for end-to-end AI workflows: data preparation, prompt/tool design, retrieval (RAG), evaluation, and iteration. I ensure AI reliability by creating scoring rubrics, golden test sets, and regression harnesses to measure model quality and detect failures early, such as hallucinations, tool misuse, and retrieval errors.
 
-### 🔬 Research & Development Focus
+I excel in **production environments** and prioritize **clean code**, **monitoring**, and **reproducible experiments**.
 
-- 🛡️ **Secure MLOps** - Building secure pipelines for machine learning model development, deployment, and monitoring
-- ⚔️ **Adversarial Machine Learning** - Defending AI models against adversarial attacks and poisoning
-- 🔐 **Safe AI Deployment** - Implementing security best practices for production ML systems
-- 🚀 **ML Orchestration** - Designing scalable orchestration platforms using Kubernetes, MLflow, and Airflow
-- 📊 **Continuous Monitoring** - Real-time monitoring and anomaly detection for AI systems
-- 🧪 **Robust AI** - Building defensible, explainable, and trustworthy AI models
+### 🔬 Core Focus Areas
 
-### 💼 Professional Mission
-
-_"Advancing the security and reliability of AI systems through rigorous engineering, continuous monitoring, and defense-in-depth strategies. My goal is to make AI systems not just intelligent, but trustworthy and secure."_
+- 🤖 **LLM Agents & Orchestration** - Building intelligent agents with tool use and multi-step reasoning
+- 📊 **Evaluation & Testing** - Creating comprehensive test suites, scoring rubrics, and golden datasets
+- 🔍 **Retrieval-Augmented Generation (RAG)** - Implementing effective retrieval systems for grounded AI responses
+- 🛡️ **AI Reliability** - Detecting and preventing hallucinations, tool misuse, and retrieval errors
+- ⚙️ **Backend Systems** - Designing scalable Python backends for AI workflows
+- 🧪 **Reproducible Experiments** - Building monitoring and iteration frameworks for continuous improvement
 
 ---
 
 ## 🛡️ Core Expertise
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/AI%20Security-00D9FF?style=for-the-badge&logo=shieldcheck&logoColor=white" alt="AI Security"/>
-        <br><strong>AI Security</strong><br>
-        Model Security<br>
-        Adversarial Defense<br>
-        Privacy-Preserving ML
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/MLOps-FF6B6B?style=for-the-badge&logo=kubernetes&logoColor=white" alt="MLOps"/>
-        <br><strong>ML Orchestration</strong><br>
-        Kubernetes + KubeFlow<br>
-        MLflow + Airflow<br>
-        CI/CD for ML
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Robust%20AI-4ADE80?style=for-the-badge&logo=brain&logoColor=white" alt="Robust AI"/>
-        <br><strong>Robust AI</strong><br>
-        Model Explainability<br>
-        Bias Detection<br>
-        Safety Testing
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://img.shields.io/badge/LLM%20Agents-00D9FF?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Agents"/><br>
+      <h3>LLM Agents</h3>
+      <p>Agent Design<br>Tool Integration<br>Multi-step Reasoning</p>
+    </td>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://img.shields.io/badge/Evaluation-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Evaluation"/><br>
+      <h3>Evaluation</h3>
+      <p>Scoring Rubrics<br>Golden Test Sets<br>Regression Testing</p>
+    </td>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://img.shields.io/badge/RAG%20Systems-4ADE80?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="RAG"/><br>
+      <h3>RAG Systems</h3>
+      <p>Retrieval Design<br>Vector Databases<br>Context Management</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🧰 Technical Stack
 
-### 🤖 AI/ML Frameworks & Libraries
+### 🐍 Python & Core Technologies
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</div>
+
+### 🤖 LLM & AI Frameworks
+
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
 </div>
 
-### 🔐 Security & Privacy Libraries
+### 🔍 Vector Databases & RAG
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Adversarial%20Robustness%20Toolbox-052F5F?style=for-the-badge&logo=ibm&logoColor=white" alt="ART"/>
-  <img src="https://img.shields.io/badge/CleverHans-00ADD8?style=for-the-badge&logo=python&logoColor=white" alt="CleverHans"/>
-  <img src="https://img.shields.io/badge/Differential%20Privacy-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="DP"/>
-  <img src="https://img.shields.io/badge/PySyft-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="PySyft"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAxMkwxMiAyMkwyMiAxMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==&logoColor=white" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+  <img src="https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
 </div>
 
 ### ⚙️ ML Orchestration & DevOps
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
-  <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-</div>
-
-### 🐍 Programming & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
 </div>
 
 ### ☁️ Cloud & Infrastructure
@@ -126,40 +118,38 @@ _"Advancing the security and reliability of AI systems through rigorous engineer
 
 ## 🔍 Key Focus Areas
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        🛡️ **Adversarial Defense**<br>
-        Defending against adversarial examples, model inversion, and data poisoning attacks
-      </td>
-      <td align="center" width="50%">
-        🔐 **Model Security**<br>
-        Secure model serving, encrypted inference, and model watermarking
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        🚀 **MLOps Pipelines**<br>
-        End-to-end ML pipelines with monitoring, versioning, and automated retraining
-      </td>
-      <td align="center" width="50%">
-        📊 **AI Monitoring**<br>
-        Real-time monitoring for drift detection, performance degradation, and anomalies
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        🧪 **Safety Testing**<br>
-        Robustness testing, stress testing, and red-teaming for ML systems
-      </td>
-      <td align="center" width="50%">
-        🔬 **Research**<br>
-        Exploring cutting-edge techniques in AI security and trustworthy ML
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td align="center" style="padding: 15px; border: none;">
+      <h4>🤖 Agent Development</h4>
+      <p>Designing and implementing LLM agents with tool use, planning, and memory capabilities</p>
+    </td>
+    <td align="center" style="padding: 15px; border: none;">
+      <h4>📊 Quality Assurance</h4>
+      <p>Building evaluation frameworks to measure model quality and detect failures early</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 15px; border: none;">
+      <h4>🔍 RAG Implementation</h4>
+      <p>Creating effective retrieval systems for grounded, context-aware AI responses</p>
+    </td>
+    <td align="center" style="padding: 15px; border: none;">
+      <h4>⚙️ Production Systems</h4>
+      <p>Building scalable backend systems with monitoring and reproducible workflows</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 15px; border: none;">
+      <h4>🛡️ AI Safety</h4>
+      <p>Preventing hallucinations, tool misuse, and retrieval errors through robust testing</p>
+    </td>
+    <td align="center" style="padding: 15px; border: none;">
+      <h4>🔬 Experimentation</h4>
+      <p>Iterative improvement through data-driven experiments and continuous monitoring</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -169,18 +159,18 @@ _"Advancing the security and reliability of AI systems through rigorous engineer
   <img src="https://github-readme-stats.vercel.app/api?username=yab112&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yab112&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yab112&theme=radical&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
+<br>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 10px; border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yab112&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+    <td align="center" style="padding: 10px; border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yab112&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -212,13 +202,13 @@ _"Advancing the security and reliability of AI systems through rigorous engineer
 <br>
 
 <div align="center">
-  <strong>💡 Open to collaborations on AI Security, MLOps, and Secure AI Research Projects</strong>
+  <strong>💡 Open to collaborations on LLM Agents, AI Evaluation, and Production AI Systems</strong>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Secure+AI+for+a+Safer+Future+%F0%9F%94%90;Let's+Make+AI+Trustworthy+Together+%F0%9F%A4%9D" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Reliable+AI+Systems+%F0%9F%94%90;Let's+Create+Better+AI+Together+%F0%9F%A4%9D" alt="Footer Typing SVG" />
 </div>
 
 <div align="center">
