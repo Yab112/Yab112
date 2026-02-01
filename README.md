@@ -145,18 +145,7 @@ Comprehensive testing and evaluation system for retrieval-augmented generation a
 
 ---
 
-## GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yab112&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yab112&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" style="max-width: 48%; height: auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yab112&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width: 48%; height: auto;" />
-</div>
-
----
 
 ## Contact
 
