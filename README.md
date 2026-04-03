@@ -147,12 +147,6 @@ Comprehensive testing and evaluation system for retrieval-augmented generation a
 
 
 
-## Contact
-
-**Email:** eshetieyabibal@gmail.com  
-**LinkedIn:** [linkedin.com/in/yabibal-eshetie](https://linkedin.com/in/yabibal-eshetie)  
-**GitHub:** [github.com/Yab112](https://github.com/Yab112)
-
 ---
 
 <div align="center">
